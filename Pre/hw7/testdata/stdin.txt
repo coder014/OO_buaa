@@ -1,0 +1,36 @@
+{"object_type":"TweetRaw","download_datetime":"2022-07-06 08:00","raw_value":{"created_at":"Sat Dec 04 17:16:55 2021","id":1467181164366234660615625667321766314642609792,"full_text":"null","user_id":14068136543424354377839627153408,"retweet_count":7,"favorite_count":9,"reply_count":10,"possibly_sensitive_editable":true,"lang":"zh-cn","emojis":[{"name":"name","emoji_id":0,"count":2},{"name":"emoji_id","emoji_id":1,"count":2},{"name":"Fade 1","emoji_id":100,"count":10},{"name":"Face 1","emoji_id":1001253452045337768767867,"count":10}]}}
+{"object_type":"TweetRaw","download_datetime":"2022-07-10 08:00","raw_value":{"created_at":"Thu Dec 09 17:16:55 2021","id":1467181131464609793,"full_text":"user_id","user_id":1406813839627153408,"retweet_count":1,"favorite_count":0,"reply_count":0,"possibly_sensitive_editable":false,"lang":"en_UK-US","emojis":[]}}
+{"object_type":"TweetRaw","download_datetime":"2022-07-10 08:00","raw_value":{"created_at":"Sat Jul 25 23:06:00 2020","id":3,"full_text":null,"user_id":1406813839627153408,"retweet_count":994254,"favorite_count":7864567,"reply_count":5070086,"possibly_sensitive_editable":false,"lang":"en_UK-US","emojis":[]}}
+{"object_type":"TweetRaw","download_datetime":"2030-12-31 00:00","raw_value":{"created_at":"Fri Jan 31 00:59:59 2025","id":1467181999793,"full_text":"full_text","user_id":1406813839627153408,"retweet_count":909,"favorite_count":1111110,"reply_count":307,"possibly_sensitive_editable":false,"lang":"zh","emojis":[]}}
+{"object_type":"TweetRaw","download_datetime":"2022-07-07 08:01","raw_value":{"created_at":"Sat Dec 04 18:16:55 2022","id":0,"full_text":"DZ1379666666___*&!$@%%$'~;/.,[]=-#! ()","user_id":14068136543424354377839627153408,"retweet_count":0,"favorite_count":0,"reply_count":0,"possibly_sensitive_editable":false,"lang":"Tibetan@v8.0","emojis":[{"name":"Ha*_ -,/{!}#33ha","emoji_id":43,"count":60}]}}
+{"object_type":"TweetRaw","download_datetime":"1001-01-01 00:00","raw_value":{"created_at":"Wed Feb 05 00:00:00 1000","id":102,"full_text":"Date test","user_id":1,"retweet_count":1,"favorite_count":1,"reply_count":3,"possibly_sensitive_editable":false,"lang":"t","emojis":[]}}
+{"object_type":"TweetRaw","download_datetime":"1001-01-01 00:00","raw_value":{"created_at":"Wed Mar 05 00:00:00 1000","id":103,"full_text":"Date test","user_id":1,"retweet_count":2,"favorite_count":10,"reply_count":30,"possibly_sensitive_editable":false,"lang":"t","emojis":[]}}
+{"object_type":"TweetRaw","download_datetime":"1001-01-01 00:00","raw_value":{"created_at":"Sat Apr 05 00:00:00 1000","id":104,"full_text":"Date test","user_id":1,"retweet_count":4,"favorite_count":100,"reply_count":300,"possibly_sensitive_editable":false,"lang":"t","emojis":[]}}
+{"object_type":"TweetRaw","download_datetime":"1001-01-01 00:00","raw_value":{"created_at":"Mon May 05 00:00:00 1000","id":105,"full_text":"Date test","user_id":1,"retweet_count":8,"favorite_count":1000,"reply_count":3000,"possibly_sensitive_editable":false,"lang":"t","emojis":[]}}
+{"object_type":"TweetRaw","download_datetime":"1001-01-01 00:00","raw_value":{"created_at":"Thu Jun 05 00:00:00 1000","id":106,"full_text":"Date test","user_id":1,"retweet_count":16,"favorite_count":10000,"reply_count":30000,"possibly_sensitive_editable":false,"lang":"t","emojis":[]}}
+{"object_type":"TweetRaw","download_datetime":"1001-01-01 00:00","raw_value":{"created_at":"Tue Aug 05 00:00:00 1000","id":108,"full_text":"Date test","user_id":1,"retweet_count":32,"favorite_count":100000,"reply_count":300000,"possibly_sensitive_editable":false,"lang":"t","emojis":[]}}
+{"object_type":"TweetRaw","download_datetime":"1001-01-01 00:00","raw_value":{"created_at":"Fri Sep 05 00:00:00 1000","id":109,"full_text":"Date test","user_id":1,"retweet_count":64,"favorite_count":1000000,"reply_count":3000000,"possibly_sensitive_editable":false,"lang":"t","emojis":[]}}
+{"object_type":"TweetRaw","download_datetime":"1001-01-01 00:00","raw_value":{"created_at":"Sun Oct 05 00:00:00 1000","id":110,"full_text":"Date test","user_id":1,"retweet_count":128,"favorite_count":10000000,"reply_count":30000000,"possibly_sensitive_editable":false,"lang":"t","emojis":[]}}
+{"object_type":"TweetRaw","download_datetime":"1001-01-01 00:00","raw_value":{"created_at":"Wed Nov 05 00:00:00 1000","id":111,"full_text":"","user_id":1,"retweet_count":256,"favorite_count":100000000,"reply_count":300000000,"possibly_sensitive_editable":false,"lang":"t","emojis":[]}}
+END_OF_MESSAGE
+Qdate 14068136543424354377839627153408 0001-01-31~2022-07-05
+Qdate 14068136543424354377839627153408 2022-12-01~2022-12-03
+Qdate 14068136543424354377839627153408 2022-12-04~2022-12-04
+Qdate 14068136543424354377839627153408 2022-07-06~2030-12-31
+Qdate 1406813839627153408 2019-01-01~2030-12-31
+Qdate 1406813839627153408 2020-07-01~2020-08-01
+Qdate 1 0001-01-01~9999-12-31
+Qemoji 0
+Qemoji 1467181164366234660615625667321766314642609792
+Qemoji 1467181999793
+Qcount 2022-07-07~2022-07-09
+Qcount 0001-01-01~9999-12-31
+Qtext 1467181164366234660615625667321766314642609792
+Qtext 1467181131464609793
+Qtext 1467181999793
+Qtext 0
+Qtext 3
+Qtext 111
+Qsensitive 1406813839627153408
+Qsensitive 14068136543424354377839627153408
+Qlang 0
